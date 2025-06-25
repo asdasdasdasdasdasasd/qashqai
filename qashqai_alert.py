@@ -8,7 +8,7 @@ from threading import Thread
 # 🔧 CONFIGURATION
 
 TELEGRAM_TOKEN = "7787577003:AAF3mZyznwx6go_sCUZF_ljQk8IDpnOkbTM"
-CHAT_ID = "1660290308"
+chat_id = -4939922320
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
